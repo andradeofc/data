@@ -1,14 +1,18 @@
 {
     "projects": [
       {
-        "name": "User Admin 37",
+        "name": "Estabelecimento 1",
         "image": "/static/profile.jpg",
-        "id": 41
+        "id": 41,
+        "local": "Aracati",
+        "tipo": "Clinica de Estetica"
       },
       {
-        "name": "User Admin 37",
+        "name": "Estabelecimento 2",
         "image": "/static/profile.jpg",
-        "id": 42
+        "id": 42,
+        "local": "Aracati",
+        "tipo": "Salão"
       }
     ]
   }
